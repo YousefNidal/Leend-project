@@ -133,7 +133,6 @@ import MoneyGray from './dashboard/MoneyGray.svg'
 import Disney from './dashboard/Disney.svg'
 import DisneyWhite from './dashboard/DisneyWhite.svg'
 import itunesWhite from './dashboard/itunesWhite.svg'
-import ItunesBlack from './dashboard/ItunesBlack.svg'
 import Razer from './dashboard/Razer.svg'
 import RazerWhite from './dashboard/RazerWhite.svg'
 import Nike from './dashboard/Nike.svg'
@@ -247,23 +246,7 @@ export const assets = {
 
 };
 
-// export const cards = [
-//   {
-//     img: visaCard,
-//     title: "Multiple Payment Methods",
-//     description:"Accept credit cards from 70+ countries, bank transfers, and 20+ gift card types",
-//   },
-//   {
-//     img: shield,
-//     title: "Complete Privacy",
-//     description: "Token-based authentication system ensures your anonymity",
-//   },
-//   {
-//     img: bitcoin,
-//     title: "Crypto Payouts",
-//     description: "Get paid in your preferred cryptocurrency instantly",
-//   },
-// ];
+
 
 export const currency = [
   {
