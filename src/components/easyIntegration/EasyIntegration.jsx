@@ -3,7 +3,7 @@ import { assets } from '../../assets/frontend_assets/assets'
 import { LeyndContext } from '../../context/LeyndContext';
 import './EasyIntegration.css'
 import { useTranslation } from 'react-i18next';
-import CreditCard from '../CreditCard/creditCard';
+import CreditCard from '../CreditCard/CreditCard';
 
 const EasyIntegration = () => {
 
