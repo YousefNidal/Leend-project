@@ -1,0 +1,26 @@
+
+
+.rccs__card--front {
+    border-radius: 4.5px !important;
+}
+.rccs__issuer {
+    width: 100% !important;
+    height: 100% !important;
+    background-size: 100% !important;
+   top: 0 !important;
+   right: 0 !important;
+   background-position: center !important;
+}
+.rccs {
+    position: absolute !important;
+    width: auto;
+    top: 53% !important;
+    left: 8px !important;
+}
+.rccs__card {
+    width: 25px !important;
+    height: 20px !important;
+}
+.rccs__card--back, .rccs__cvc, .rccs__chip, .rccs__expiry, .rccs__name, .rccs__number {
+    display: none !important;
+}
